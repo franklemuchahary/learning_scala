@@ -1,3 +1,4 @@
 # Learning Scala
+Covers the Following:
 - Scripts and Notebooks for covering the basics of Scala Programming
-- Also covers basics of functional programming in Scala
+- Basics of functional programming in Scala
